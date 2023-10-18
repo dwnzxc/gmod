@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to my Garry's Mod Lua Script project! This script is designed to enhance your gaming experience in Garry's Mod with various features. This README file will provide you with essential information about the script's features, installation, configuration, and usage.
+This script is designed to enhance your gaming experience in Garry's Mod with various features. This README file will provide you with essential information about the script's features, installation, configuration, and usage.
 
 ## Features
 
