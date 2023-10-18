@@ -36,6 +36,8 @@ To use this Lua script in Garry's Mod, follow these steps:
 
 C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\Lua
 
+3. Drop the Lua file there.
+
 4. Ensure that your Garry's Mod is properly set up and running. Launch the game.
 
 ## Configuration
